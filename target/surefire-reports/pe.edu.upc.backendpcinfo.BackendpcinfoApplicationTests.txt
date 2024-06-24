@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pe.edu.upc.backendpcinfo.BackendpcinfoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.084 s - in pe.edu.upc.backendpcinfo.BackendpcinfoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.092 s - in pe.edu.upc.backendpcinfo.BackendpcinfoApplicationTests
